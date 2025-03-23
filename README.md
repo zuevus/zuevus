@@ -2,7 +2,7 @@
 - 👀 I’m interested in automatetesting, database management, count builing and etc. I like work with interface and background (full stack)
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate in open source (as a volunteer) and freelance projects which are connected with Java,
-Python, Databases (SQL, Non-SQL), Flask, Spring, Django, Cucumber, Automated testing, Robo framework, Appium, Mobile Apps, REST API, Build accounting and etc.
+Python, ASP. NET core, Databases (SQL, Non-SQL), Flask, Spring, Django, Cucumber, Automated testing, Robo framework, Appium, Mobile Apps, REST API, Build accounting and etc.
 - 📫 You could contact me by email zuevus@gmail.com
 
 <!---
